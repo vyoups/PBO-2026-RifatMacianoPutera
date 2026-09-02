@@ -1,3 +1,4 @@
+package Jobsheet1;
 public class Bike {
     private String brand;
     private int speed;

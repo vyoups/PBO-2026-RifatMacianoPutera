@@ -14,11 +14,11 @@ public class bikeDemo {
         mountainBike2.gearChanges(3);
         mountainBike2.printInfo();
 
-        // roadBike1.setBrand("Specialized");
-        // roadBike1.setTireWidth(25);
-        // roadBike1.speedAcceleration(15);
-        // roadBike1.gearChanges(4);
-        // roadBike1.printInfo();
+        roadBike1.setBrand("Specialized");
+        roadBike1.setTireWidth(25);
+        roadBike1.speedAcceleration(15);
+        roadBike1.gearChanges(4);
+        roadBike1.printInfo();
 
     }    
 }
